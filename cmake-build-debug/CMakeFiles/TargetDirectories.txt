@@ -1,0 +1,4 @@
+E:/CodeSpace/QtSpace/WorkSpace007/IcePaste/cmake-build-debug/CMakeFiles/IcePaste.dir
+E:/CodeSpace/QtSpace/WorkSpace007/IcePaste/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/CodeSpace/QtSpace/WorkSpace007/IcePaste/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+E:/CodeSpace/QtSpace/WorkSpace007/IcePaste/cmake-build-debug/CMakeFiles/IcePaste_autogen.dir

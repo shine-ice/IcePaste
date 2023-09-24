@@ -1,0 +1,3 @@
+"D:\MyPrograms\JetBrains\CLion 2021.2.4\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\IcePaste.dir/objects.a
+D:\MyPrograms\Qt\Tools\mingw810_32\bin\ar.exe cr CMakeFiles\IcePaste.dir/objects.a @CMakeFiles\IcePaste.dir\objects1.rsp
+D:\MyPrograms\Qt\Tools\mingw810_32\bin\g++.exe -g -Wl,--whole-archive CMakeFiles\IcePaste.dir/objects.a -Wl,--no-whole-archive -o IcePaste.exe -Wl,--out-implib,libIcePaste.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\IcePaste.dir\linklibs.rsp
