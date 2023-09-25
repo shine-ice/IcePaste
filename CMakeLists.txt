@@ -14,7 +14,7 @@ find_package(Qt5 COMPONENTS
         Widgets
         REQUIRED)
 
-add_executable(IcePaste main.cpp)
+add_executable(IcePaste main.cpp IcePaste.cpp IcePaste.h PasteImage.cpp PasteImage.h)
 target_link_libraries(IcePaste
         Qt5::Core
         Qt5::Gui
